@@ -13,6 +13,21 @@ This project is currently available in the following languages:
 
 * [🇬🇧 English - United Kingdom](https://github.com/andcapo/re-open/blob/master/IT/Italian%20-%20Re-open%20Safely.pdf)
 * [🇮🇹 Italian - Italia](https://github.com/andcapo/re-open/blob/master/EN/English%20-%20Re-open%20Safely.pdf)
+* [🇩🇪 German - Deutschland](https://github.com/andcapo/re-open/blob/master/DE/German%20-%20Re-open%20Safely.pdf)
+
+### Coming soon
+* 🇪🇬 Arabic - مِصر
+* 🇫🇷 French - France
+* 🇯🇵 Japanese - 日本
+* 🇵🇱 Polish - Polska
+* 🇨🇳 Chinese - 中国
+* 🇵🇹 Portuguese - República Portuguesa
+* 🇪🇸 Spanish - España
+* 🇳🇱 Dutch - Nederland
+
+### Translator needed
+* 🇷🇺 Russian - Росси́я
+* 🇬🇷 Greek - Ελλάδα
 
 ## Contributions
 Please contribute in expanding this project in other languages and adding material using this Figma file as a template
@@ -22,3 +37,8 @@ If you want direct access to the figma file contact the author [@andcapo](https:
 
 ## License
 This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+## Contibutors
+* 🇩🇪 Filip Grgic
+* 🇮🇹 Andrea Caporale
+* 🇬🇧 Andrea Caporale
