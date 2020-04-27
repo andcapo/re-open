@@ -7,8 +7,8 @@ We use a mix of text, emoji and colours to make this kit understandable by every
 ## Languages
 This project is currently available in the following languages: 
 
-🇬🇧 English - UK
-🇮🇹 Italian - Italiano
+* 🇬🇧 English - UK
+* 🇮🇹 Italian - Italiano
 
 ## Contributions
 Please contribute in expanding this project in other languages and adding material using this Figma file as a template
