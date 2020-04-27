@@ -18,7 +18,7 @@ This project is currently available in the following languages:
 Please contribute in expanding this project in other languages and adding material using this Figma file as a template
 https://www.figma.com/file/6GcMSit54hE94xkZgFw0ga/Re-open-Safely?node-id=0%3A1
 
-If you want direct access to the figma file contact the author @andcapo
+If you want direct access to the figma file contact the author [@andcapo](https://github.com/andcapo)
 
 ## License
 This work is licensed under a Creative Commons Attribution 4.0 International License.
