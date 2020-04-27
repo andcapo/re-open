@@ -15,3 +15,6 @@ Please contribute in expanding this project in other languages and adding materi
 https://www.figma.com/file/6GcMSit54hE94xkZgFw0ga/Re-open-Safely?node-id=0%3A1
 
 If you want direct access to the figma file contact the author @andcapo
+
+## License
+This work is licensed under a Creative Commons Attribution 4.0 International License.
