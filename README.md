@@ -1,5 +1,9 @@
 # Re-Open Safely Kit
-This is a simple printable kit to provide information to the public visiting shops, offices and locations on how to maintain social distancing.
+This is a simple printable kit that helps people to have a visual reference and maintain social distancing especially in small locations like shops.
+
+To use this kit you will need:
+* an A4 color printer
+* a laminator if possible
 
 ## Principles
 We use a mix of text, emoji and colours to make this kit understandable by everyone. This project is being translated in many languages so when people travel will know what to do keeping everyone safe.
