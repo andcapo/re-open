@@ -16,7 +16,7 @@ This project is currently available in the following languages:
 
 ## Contributions
 Please contribute in expanding this project in other languages and adding material using this Figma file as a template
-https://www.figma.com/file/6GcMSit54hE94xkZgFw0ga/Re-open-Safely?node-id=0%3A1
+https://www.figma.com/file/ND9zdX373aNOIi2Jnrgefn/Re-open-Safely?node-id=1%3A190
 
 If you want direct access to the figma file contact the author [@andcapo](https://github.com/andcapo)
 
