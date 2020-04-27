@@ -7,8 +7,8 @@ We use a mix of text, emoji and colours to make this kit understandable by every
 ## Languages
 This project is currently available in the following languages: 
 
-* 🇬🇧 English - UK
-* 🇮🇹 Italian - Italiano
+* [🇬🇧 English - United Kingdom](https://github.com/andcapo/re-open/blob/master/IT/Italian%20-%20Re-open%20Safely.pdf)
+* [🇮🇹 Italian - Italia](https://github.com/andcapo/re-open/blob/master/EN/English%20-%20Re-open%20Safely.pdf)
 
 ## Contributions
 Please contribute in expanding this project in other languages and adding material using this Figma file as a template
