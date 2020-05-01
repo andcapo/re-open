@@ -40,7 +40,7 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 
 ## Contibutors
 * 🇩🇪 by Filip Grgic
-* 🇬🇧 🇮🇹 by @andcapo
+* 🇬🇧 🇮🇹 by [@andcapo](https://github.com/andcapo)
 * 🇨🇳 by Siqi Liu
-* 🇪🇸 🇫🇷 by @evajobard
-* 🇯🇵 by @shfukuji
+* 🇪🇸 🇫🇷 by [@evajobard](https://github.com/evajobard)
+* 🇯🇵 by [@shfukuji](https://github.com/shfukuji)
