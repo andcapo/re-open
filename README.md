@@ -16,8 +16,8 @@ This project is currently available in the following languages:
 * [🇮🇹 Italian - Italia](https://github.com/andcapo/re-open/blob/master/EN/English%20-%20Re-open%20Safely.pdf)
 * [🇫🇷 French - France](https://github.com/andcapo/re-open/blob/master/FR/French%20-%20Re-open%20Safely.pdf)
 * [🇩🇪 German - Deutschland](https://github.com/andcapo/re-open/blob/master/DE/German%20-%20Re-open%20Safely.pdf)
-* [🇪🇸 Spanish - España](https://github.com/andcapo/re-open/blob/master/DE/German%20-%20Re-open%20Safely.pdf)
-* [🇯🇵 Japanese - 日本](https://github.com/andcapo/re-open/blob/master/DE/German%20-%20Re-open%20Safely.pdf)
+* [🇪🇸 Spanish - España](https://github.com/andcapo/re-open/blob/master/ES/Spanish%20-%20Re-open%20Safely.pdf)
+* [🇯🇵 Japanese - 日本](https://github.com/andcapo/re-open/blob/master/JA/Japanese%20-%20Re-open%20Safely.pdf)
 
 ### Coming soon
 * 🇪🇬 Arabic - مِصر
